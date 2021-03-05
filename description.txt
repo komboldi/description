@@ -5,7 +5,9 @@ version 16.5
 
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
-
+English:
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 description: download the zip data. open the zip data. The push windows + R 
 and write in it %appdata% and push ok. Then push .minecraft-->resourcepacks 
 and Push the ordner in the zip in resourcepacks. Go tho minecraft and choose 
@@ -14,3 +16,14 @@ complited and make your own Texture Pack !
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+German:
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Beschreibung: Laden Sie die Zip-Daten herunter. Öffnen Sie die Zip-Daten. Drücken
+ Sie Windows + R und schreiben Sie% appdata% hinein und drücken Sie OK. Drücken 
+Sie dann .minecraft -> resourcepacks und drücken Sie den Ordner in der Zip-Datei
+ in resourcepacks. Gehen Sie zu Minecraft und wählen Sie 
+MinecraftTexturePackkbsTPv2-Waffen-v.-16.5-neue-Version - main. 
+Dann haben Sie Ihr eigenes Texture Pack erstellt!
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
