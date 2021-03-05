@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Minecraft:Texture Pack 'kbs TPv2-weapons'
+version 16.5
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+description: download the zip data. open the zip data. The push windows + R 
+and write in it %appdata% and push ok. Then push .minecraft-->resourcepacks 
+and Push the ordner in the zip in resourcepacks. Go tho minecraft and choose 
+MinecraftTexturePackkbsTPv2-weapons-v.-16.5-new-verion--main. Then you 
+complited and make your own Texture Pack !
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
